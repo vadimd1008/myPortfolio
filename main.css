@@ -1,0 +1,21 @@
+body {
+    background: #ddd;
+  }
+#content {
+    text-align: center;
+  }
+.vadim {
+    color: blue;
+  }
+.welcome {
+    text-transform: uppercase;
+    color: darkblue;
+  }
+.filling {
+    height: 75px;
+    background-color: darkgrey;
+  }
+.pouring {
+    height: 820px;
+    background-color: darkcyan;
+}
